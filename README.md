@@ -4,7 +4,7 @@ The QuizNest is an engaging quiz application that helps users discover more abou
 
 • Marvel Quiz: Find out which Marvel character best matches your personality.
 
-• Personality Survey: Explore insights into your personality traits, including         
+• Personality Quiz: Explore insights into your personality traits, including         
 leadership, anger, and social tendencies.
 
 Our project focuses on delivering an interactive experience using a Graphical User Interface (GUI), various Java classes, and functionalities that make the application dynamic and fun.
